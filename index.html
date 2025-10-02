@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Phiwokuhle Nyobo Inc | Law Firm</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Open+Sans&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-logo">
+                <h2>Phiwokuhle Nyobo Inc ⚖️</h2> 
+            </div>
+            <ul class="nav-menu">
+                <li class="nav-item">
+                    <a href="#home" class="nav-link">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#services" class="nav-link">Services</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#about" class="nav-link">About</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#contact" class="nav-link">Contact</a>
+                </li>
+            </ul>
+            <div class="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="hero-content">
+            <h1>Expert Legal Services in King William's Town</h1>
+            <p>Professional, dedicated legal representation you can trust</p>
+            <a href="#contact" class="cta-button">Get Legal Help Today</a>
+        </div>
+    </section>
+
+    <!-- Services Section -->
+    <section id="services" class="services">
+        <div class="container">
+            <h2>Our Legal Services</h2>
+            <div class="services-grid">
+                <div class="service-card">
+                    <h3>Civil Litigation</h3>
+                    <p>Professional representation in civil disputes and court proceedings</p>
+                </div>
+                <div class="service-card">
+                    <h3>Family Law</h3>
+                    <p>Compassionate handling of divorce, custody, and family matters</p>
+                </div>
+                <div class="service-card">
+                    <h3>Property Law</h3>
+                    <p>Expert guidance on property transactions and disputes</p>
+                </div>
+                <div class="service-card">
+                    <h3>Contract Law</h3>
+                    <p>Drafting, review, and enforcement of legal agreements</p>
+                </div>
+                <div class="service-card">
+                    <h3>Labor Law</h3>
+                    <p>Protecting your rights in employment-related matters</p>
+                </div>
+                <div class="service-card">
+                    <h3>Estate Planning</h3>
+                    <p>Wills, trusts, and estate administration services</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about">
+        <div class="container">
+            <div class="about-content">
+                <div class="about-text">
+                    <h2>About Phiwokuhle Nyobo Inc</h2>
+                    <p>Located in the heart of King William's Town, Phiwokuhle Nyobo Inc has been providing exceptional legal services to the Eastern Cape community. Our firm is committed to delivering professional, personalized legal representation with integrity and excellence.</p>
+                    <p>With a deep understanding of South African law and a commitment to our clients' success, we strive to achieve the best possible outcomes in every case.</p>
+                </div>
+                <div class="about-image">
+                    <div class="image-placeholder">
+                        <img src="images/about-bg.jpg" alt="Phiwokuhle Nyobo Inc Law Office" onerror="this.style.display='none'">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <div class="contact-content">
+                <div class="contact-info">
+                    <h3>Get In Touch</h3>
+                    <div class="contact-item">
+                        <strong>Address:</strong>
+                        <p><address><br><city>, <region></p>
+                    </div>
+                    <div class="contact-item">
+                        <strong>Phone:</strong>
+                        <p><phone_number></p>
+                    </div>
+                    <div class="contact-item">
+                        <strong>Email:</strong>
+                        <p><email_address></p>
+                    </div>
+                    <div class="contact-item">
+                        <strong>Hours:</strong>
+                        <p>Monday - Friday: 8:00 AM - 5:00 PM<br>Saturday: 9:00 AM - 1:00 PM</p>
+                    </div>
+                    <a href="<google_maps_link>" class="map-link" target="_blank">
+                        View on Google Maps
+                    </a>
+                </div>
+                <div class="contact-form">
+                    <h3>Send us a Message</h3>
+                    <form id="contactForm">
+                        <input type="text" placeholder="Your Name" required>
+                        <input type="email" placeholder="Your Email" required>
+                        <input type="tel" placeholder="Your Phone">
+                        <select required>
+                            <option value="">Select Service</option>
+                            <option value="civil">Civil Litigation</option>
+                            <option value="family">Family Law</option>
+                            <option value="property">Property Law</option>
+                            <option value="contract">Contract Law</option>
+                            <option value="labor">Labor Law</option>
+                            <option value="estate">Estate Planning</option>
+                        </select>
+                        <textarea placeholder="Your Message" rows="5" required></textarea>
+                        <button type="submit" class="submit-btn">Send Message</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Reviews Section -->
+    <section id="reviews" class="reviews">
+        <div class="container">
+            <h2>Client Reviews</h2>
+            <div class="reviews-header">
+                <div class="rating-summary">
+                    <div class="average-rating">
+                        <span class="rating-stars">★★★★★</span>
+                        <span class="rating-number">4.9</span>
+                        <span class="rating-count">(Based on 47 reviews)</span>
+                    </div>
+                </div>
+                <div class="review-actions">
+                    <button class="add-review-btn" onclick="openReviewModal()">Add Your Review</button>
+                    <a href="https://g.page/r/CaNlJjZvJ4ePEB0/review" class="google-review-btn" target="_blank">
+                        Leave Review on Google
+                    </a>
+                </div>
+            </div>
+
+            <!-- Reviews Grid -->
+            <div class="reviews-grid" id="reviewsGrid">
+                <!-- Reviews will be loaded here dynamically -->
+            </div>
+
+            <!-- Google Maps Reviews Preview -->
+            <div class="google-reviews">
+                <h3>What Our Clients Say on Google</h3>
+                <div class="google-reviews-container">
+                    <div class="google-review-card">
+                        <div class="reviewer-info">
+                            <span class="reviewer-name">Sarah Johnson</span>
+                            <span class="review-date">2 weeks ago</span>
+                        </div>
+                        <div class="review-stars">★★★★★</div>
+                        <p class="review-text">"Professional and efficient service. Phiwokuhle helped me with a complex property matter and achieved excellent results."</p>
+                    </div>
+                    <div class="google-review-card">
+                        <div class="reviewer-info">
+                            <span class="reviewer-name">Michael Botha</span>
+                            <span class="review-date">1 month ago</span>
+                        </div>
+                        <div class="review-stars">★★★★★</div>
+                        <p class="review-text">"Outstanding legal representation. The team was responsive and handled my case with expertise and care."</p>
+                    </div>
+                    <div class="google-review-card">
+                        <div class="reviewer-info">
+                            <span class="reviewer-name">Lindiwe Mbeki</span>
+                            <span class="review-date">2 months ago</span>
+                        </div>
+                        <div class="review-stars">★★★★☆</div>
+                        <p class="review-text">"Good service overall. Some delays in communication but the final outcome was satisfactory."</p>
+                    </div>
+                </div>
+                <a href="https://g.page/r/CaNlJjZvJ4ePEB0/review" class="view-all-reviews" target="_blank">
+                    View All Reviews on Google Maps
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Review Modal -->
+    <div id="reviewModal" class="review-modal">
+        <div class="modal-content">
+            <span class="close-modal" onclick="closeReviewModal()">&times;</span>
+            <h3>Share Your Experience</h3>
+            <form id="reviewForm" class="review-form">
+                <div class="form-group">
+                    <label for="reviewerName">Your Name</label>
+                    <input type="text" id="reviewerName" name="reviewerName" required>
+                </div>
+                <div class="form-group">
+                    <label for="reviewerEmail">Your Email</label>
+                    <input type="email" id="reviewerEmail" name="reviewerEmail" required>
+                </div>
+                <div class="form-group">
+                    <label>Your Rating</label>
+                    <div class="star-rating">
+                        <span class="star" data-rating="1">☆</span>
+                        <span class="star" data-rating="2">☆</span>
+                        <span class="star" data-rating="3">☆</span>
+                        <span class="star" data-rating="4">☆</span>
+                        <span class="star" data-rating="5">☆</span>
+                    </div>
+                    <input type="hidden" id="rating" name="rating" required>
+                </div>
+                <div class="form-group">
+                    <label for="reviewText">Your Review</label>
+                    <textarea id="reviewText" name="reviewText" rows="5" placeholder="Share your experience with our legal services..." required></textarea>
+                </div>
+                <div class="form-group">
+                    <label>
+                        <input type="checkbox" name="consent" required>
+                        I consent to have this review published on the website
+                    </label>
+                </div>
+                <button type="submit" class="submit-review-btn">Submit Review</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Admin Panel (Hidden by default) -->
+    <div id="adminPanel" class="admin-panel">
+        <div class="admin-content">
+            <h3>Review Management</h3>
+            <div class="admin-controls">
+                <button onclick="toggleReviewVisibility('all')">Show All Reviews</button>
+                <button onclick="toggleReviewVisibility('positive')">Show Positive Only</button>
+                <button onclick="exportReviews()">Export Reviews</button>
+            </div>
+            <div class="reviews-list" id="adminReviewsList">
+                <!-- Admin review list will be populated here -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-logo">
+                    <img src="images/logo-bg.png" alt="Phiwokuhle Nyobo Inc Logo" style="border: 2px solid red; background: yellow;" onerror="this.style.display='none'; console.log('Logo failed to load')" onload="console.log('Logo loaded successfully')">
+                    <div>
+                        <h3>Phiwokuhle Nyobo Inc</h3>
+                        <p>Professional Legal Services</p>
+                    </div>
+                </div>
+                <div class="footer-links">
+                    <a href="#home">Home</a>
+                    <a href="#services">Services</a>
+                    <a href="#about">About</a>
+                    <a href="#contact">Contact</a>
+                </div>
+                <div class="footer-social">
+                    <p>Follow us on social media</p>
+                    <!-- Add social media icons here -->
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 Phiwokuhle Nyobo Inc. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Test Images (Hidden) -->
+    <div style="display: none;">
+        <img src="images/hero-bg.jpg" alt="test" onload="console.log('Hero image loaded successfully')" onerror="console.log('Hero image failed to load')">
+        <img src="images/about-bg.jpg" alt="test" onload="console.log('About image loaded successfully')" onerror="console.log('About image failed to load')">
+        <img src="images/contact-bg.jpg" alt="test" onload="console.log('Contact image loaded successfully')" onerror="console.log('Contact image failed to load')">
+        <img src="images/logo-bg.png" alt="test" onload="console.log('Logo image loaded successfully')" onerror="console.log('Logo image failed to load')">
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

